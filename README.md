@@ -3,7 +3,7 @@
 Chrome Extension Typescript starter
 
 <!-- add image here -->
-<img src="" alt="Chrome Extension Starter" width="600" height="400">
+<img src="https://raw.githubusercontent.com/CodingWithTashi/chrome-extension-starter-typescript/refs/heads/main/icons/demo.png" alt="Chrome Extension Starter" width="580" height="230">
 
 
 This is a starter project for building Chrome extensions using TypeScript. It includes a basic setup with a bundler and essential packages to streamline the development process.
@@ -64,6 +64,14 @@ npm run format
 ```sh
 npm run build
    ```
+
+## Disclaimer
+If you enjoy this
+project, I'd appreciate your [🌟 on GitHub](https://github.com/CodingWithTashi/chrome-extension-starter-typescript/).   
+
+## You can also buy me a cup of coffee   
+<a href="https://www.buymeacoffee.com/codingwithtashi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width=200px></a>
+
    
    
 
