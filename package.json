@@ -16,16 +16,20 @@
     "@types/chrome": "^0.0.268",
     "@types/eslint__js": "^8.42.3",
     "copy-webpack-plugin": "^12.0.2",
+    "copyfiles": "^2.4.1",
+    "css-loader": "^7.1.2",
     "eslint": "^8.57.0",
+    "postcss-loader": "^8.1.1",
     "prettier": "3.3.2",
+    "style-loader": "^4.0.0",
+    "tailwindcss": "^3.4.14",
     "ts-loader": "^9.5.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5",
     "typescript-eslint": "^7.13.0",
     "webpack": "^5.91.0",
     "webpack-cli": "^5.1.4",
-    "webpack-merge": "^5.10.0",
-    "copyfiles": "^2.4.1"
+    "webpack-merge": "^5.10.0"
   },
   "keywords": [
     "chrome-extention-stater",
